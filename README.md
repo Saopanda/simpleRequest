@@ -1,7 +1,7 @@
 # simpleRequest
 简单、正经、好用的请求类
 https://github.com/Saopanda/simpleRequest
-
+https://packagist.org/packages/saoapnda/client
 ## 实例化
 
 ```    
