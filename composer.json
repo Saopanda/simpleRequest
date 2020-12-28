@@ -1,5 +1,5 @@
 {
-    "name": "saoapnda/client",
+    "name": "saopanda/client",
     "description": "简单的请求类",
     "type": "library",
     "require": {
