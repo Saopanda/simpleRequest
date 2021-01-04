@@ -65,7 +65,7 @@ class client{
      */
     public function headers(array $headers)
     {
-        $this->headers = $headers;
+        $this->headers[] = $headers;
         return $this;
     }
 
@@ -76,7 +76,7 @@ class client{
      */
     public function params(array $params)
     {
-        $this->params = $params;
+        $this->params[] = $params;
         return $this;
     }
 
