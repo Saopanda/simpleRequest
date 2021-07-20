@@ -16,22 +16,6 @@ $client = client::new([
 ]);
 ```
 
-## GET 请求
-$client->get(`网址` `[,请求参数数组]` `[,Headers数组]`)
-
-```
-$res = $client->get('qq.com');
-
-$res = $client->get('qq.com',['a'=>1]);  // www.baidu.com?a=1
-```   
-    
-## POST 请求
-$client->post(`网址`)
-```
-$res = $client->post('qq.com');
-
-```
-
 ## 内容返回
 成功
 
